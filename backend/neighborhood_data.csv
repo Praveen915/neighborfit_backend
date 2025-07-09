@@ -1,0 +1,103 @@
+name,safety,cost_of_living,nightlife,public_transport,education_quality,average_cost,image_url,tagline
+Los Angeles,3,3,4.0,3.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+San Diego,3,3,3.0,3.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+San Jose,3,3,3.0,3.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+San Francisco,3,3,5.0,4.0,4.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Fresno,3,3,3.0,2.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Sacramento,3,3,3.0,3.0,4.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Long Beach,3,3,4.0,3.0,4.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Oakland,3,3,4.0,4.0,4.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Bakersfield,3,3,2.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Anaheim,3,3,3.0,3.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Santa Ana,3,3,4.0,3.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Riverside,3,3,2.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Stockton,3,3,2.0,2.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Chula Vista,3,3,2.0,3.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Fremont,3,3,3.0,3.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Irvine,3,3,2.0,2.0,4.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Detroit,3,3,3.0,3.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Chicago,3,3,4.0,4.0,4.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Seattle,3,3,4.0,4.0,4.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Spokane,3,3,3.0,3.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Portland,3,3,4.0,3.0,5.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+New York,3,3,5.0,5.0,4.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Buffalo,3,3,4.0,3.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Phoenix,3,3,2.0,3.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Tucson,3,3,2.0,3.0,4.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Mesa,3,3,2.0,2.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Chandler,3,3,2.0,2.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Glendale,3,3,2.0,3.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Scottsdale,3,3,2.0,2.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Gilbert,3,3,1.0,2.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+New Orleans,3,3,3.0,3.0,4.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Baton Rouge,3,3,2.0,,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Jacksonville,3,3,1.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Miami,3,3,4.0,4.0,4.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Tampa,3,3,3.0,2.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+St. Petersburg,3,3,2.0,3.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Orlando,3,3,2.0,2.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Hialeah,3,3,4.0,3.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Kansas City,3,3,2.0,2.0,1.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+St. Louis,3,3,4.0,3.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Atlanta,3,3,3.0,3.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Virginia Beach,3,3,2.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Norfolk,3,3,2.0,3.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Chesapeake,3,3,1.0,2.0,1.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Arlington,3,3,4.0,4.0,4.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Richmond,3,3,3.0,,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Baltimore,3,3,4.0,3.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Boston,3,3,5.0,4.0,4.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Columbus,3,3,2.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Cleveland,3,3,3.0,3.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Cincinnati,3,3,3.0,3.0,1.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Toledo,3,3,2.0,,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Houston,3,3,3.0,3.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+San Antonio,3,3,2.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Dallas,3,3,2.0,3.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Austin,3,3,2.0,3.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Fort Worth,3,3,2.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+El Paso,3,3,2.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Arlington,3,3,2.0,1.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Corpus Christi,3,3,2.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Plano,3,3,2.0,2.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Laredo,3,3,2.0,,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Lubbock,3,3,2.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Garland,3,3,2.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Irving,3,3,2.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Oklahoma City,3,3,2.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Tulsa,3,3,2.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Denver,3,3,3.0,3.0,4.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Colorado Springs,3,3,2.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Aurora,3,3,2.0,3.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Charlotte,3,3,1.0,2.0,1.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Raleigh,3,3,2.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Greensboro,3,3,1.0,,1.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Durham,3,3,2.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Milwaukee,3,3,3.0,3.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Madison,3,3,3.0,3.0,4.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Newark,3,3,4.0,4.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Jersey City,3,3,5.0,4.0,4.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Minneapolis,3,3,4.0,3.0,5.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+St. Paul,3,3,3.0,3.0,4.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Memphis,3,3,2.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Nashville,3,3,1.0,2.0,1.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Des Moines,3,3,2.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Louisville,3,3,2.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Lexington,3,3,2.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Honolulu,3,3,4.0,4.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Las Vegas,3,3,2.0,3.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Las Vegas,3,3,2.0,3.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Henderson,3,3,2.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Reno,3,3,2.0,2.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+North Las Vegas,3,3,2.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+North Las Vegas,3,3,2.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+North Las Vegas,3,3,2.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Philadelphia,3,3,4.0,4.0,4.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Pittsburgh,3,3,3.0,3.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Omaha,3,3,3.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Lincoln,3,3,2.0,2.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Wichita,3,3,2.0,2.0,2.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Anchorage,3,3,2.0,2.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Boise City,3,3,2.0,2.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Albuquerque,3,3,2.0,2.0,3.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
+Washington D.C.,3,3,4.0,4.0,4.0,30000,https://via.placeholder.com/300x200,Modern urban vibe with balanced amenities
